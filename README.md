@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ian Jackson</h1>
 <h3 align="center">An aspiring software engineer</h3>
 
-- 🔭 I’m currently working on **a Real Time Chat App**
+- 🔭 I’m currently working on **a Spring Boot Ecommerce App**
 
-- 🌱 I’m currently learning **React, Nodejs**
+- 🌱 I’m currently learning **Spring Boot, Java, Go**
 
 - 👨‍💻 All of my projects are available at [https://ianj751.github.io/portfolio/](https://ianj751.github.io/portfolio/)
 
