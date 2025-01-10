@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a Spring Boot Ecommerce App**
 
-- 🌱 I’m currently learning **Spring Boot, Java, Go**
+- 🌱 I’m currently learning **Spring Boot, Java, Go, and Apex**
 
 - 👨‍💻 All of my projects are available at [https://ianj751.github.io/portfolio/](https://ianj751.github.io/portfolio/)
 
