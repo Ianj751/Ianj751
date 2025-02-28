@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Spring Boot, Java, Go, and Apex**
 
-- 👨‍💻 All of my projects are available at [https://ianj751.github.io/portfolio/](https://ianj751.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at https://ianjackson.vercel.app
 
 - 📫 How to reach me **ianj60184@gmail.com**
 
